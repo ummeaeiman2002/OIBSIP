@@ -1,0 +1,5 @@
+
+bmi_records.db
+__pycache__/
+.venv/
+venv/
